@@ -1,0 +1,9 @@
+{
+  "html": "sheet.html",
+  "css": "sheet.css",
+  "sheetWorker": "worker.js",
+  "authors": "Ton Nom",
+  "roll20userid": "12345678",
+  "preview": "preview.png",
+  "instructions": "instructions.md"
+}
